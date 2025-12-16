@@ -1,4 +1,4 @@
-# LangChain + Ollama + Streamlit Chat App
+# LangChain - Ollama - Streamlit Chat App
 
 This project is a simple AI chat application built using **LangChain**, **Ollama**, and **Streamlit**.  
 It allows users to enter a query and receive responses from a locally running LLM.
