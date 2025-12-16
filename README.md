@@ -15,7 +15,7 @@ It allows users to enter a query and receive responses from a locally running LL
 
 ### 2️⃣ Pull the Required Model
 Run the following command to download the model if not already installed:
-ollama run gemma3:1b
+ollama run gemma3:1b. 
 You can also use your preferred Ollama model by updating the model name in the code:
 llm = Ollama(model="your-preferred-model")
 
